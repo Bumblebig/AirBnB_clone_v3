@@ -1,4 +1,4 @@
-# AirBnB Clone
+# AirBnB Clone RESTful API
 
 This repository is the second part of the project. The front-end of AirBnB was designed from scratch using HTML5/CSS3 pages.
 
